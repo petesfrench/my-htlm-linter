@@ -1,7 +1,7 @@
 {
   "name": "html-linter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic linter that makes checks for things I personally miss in my HTML files (and aren't caught by our linters).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -3,7 +3,7 @@
 const fs = require('fs');
 const parse5 = require('parse5');
 
-// This finds any 'alt' attribute in the HTML. 
+// This finds any 'alt' attribute in the HTML
 const altRegex = /alt\s*=\s*"(.*?)"/g;
 
 // These are rules for 'lintHTMLNodes' function
